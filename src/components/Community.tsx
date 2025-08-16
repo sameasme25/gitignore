@@ -87,7 +87,7 @@ const Community: React.FC = () => {
               textAlign: 'left',
             }}
           >
-            Community, Without the Scroll
+            Community without the scroll
           </h2>
           {/* Subcontent */}
           <div
