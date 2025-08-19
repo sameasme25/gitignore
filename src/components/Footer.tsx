@@ -35,7 +35,7 @@ const Footer: React.FC = () => {
             justifySelf: 'start',
           }}
         >
-          @Ditto Health All rights reserved.
+          © 2025 Ditto Health, Inc. All Rights Reserved.
         </div>
         {/* Center */}
         <div
@@ -104,7 +104,7 @@ const Footer: React.FC = () => {
             lineHeight: '100%',
           }}
         >
-          @Ditto Health AI right reserved.
+          © 2025 Ditto Health, Inc. All Rights Reserved.
         </div>
       </div>
       
