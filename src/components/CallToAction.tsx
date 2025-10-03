@@ -29,7 +29,7 @@ const CallToAction: React.FC = () => {
           textAlign: 'center',
         }}
       >
-        We're <span style={{ color: '#6B0EC7' }}>launching in January 2025,</span> and we'd love to have you with us from the start.
+        We're <span style={{ color: '#6B0EC7' }}>launching in January 2026,</span> and we'd love to have you with us from the start.
       </h2>
       <div
         className="cta-subtitle"
@@ -153,4 +153,4 @@ const CallToAction: React.FC = () => {
   );
 };
 
-export default CallToAction; 
+export default CallToAction;
