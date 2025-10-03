@@ -3,7 +3,6 @@ import React, { useState } from 'react';
 const Footer: React.FC = () => {
   const [showTerms, setShowTerms] = useState(false);
   const [showPrivacy, setShowPrivacy] = useState(false);
-  const [showAccessibility, setShowAccessibility] = useState(false);
 
   return (
     <>
