@@ -147,7 +147,7 @@ const Pricing: React.FC = () => {
           {/* Availability */}
           <div
             style={{
-              background: 'rgba(255, 255, 255, 0.15)',
+              background: '#10B981',
               borderRadius: '8px',
               padding: '16px',
               marginBottom: '32px',
