@@ -189,7 +189,7 @@ const Pricing: React.FC = () => {
               }}
             >
               <span style={{ position: 'absolute', left: 0 }}>✓</span>
-              Special Beta Rate — lock in before it increases to $199
+              Beta price locked in for the first year
             </li>
             <li
               style={{
