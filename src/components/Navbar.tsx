@@ -87,7 +87,7 @@ const Navbar: React.FC = () => {
             zIndex: 1,
           }}
         >
-          <span style={{ position: 'relative', zIndex: 2 }}>Join the waitlist</span>
+          <span style={{ position: 'relative', zIndex: 2 }}>Join the Beta</span>
         </a>
       </div>
       {/* Mobile Right: Join button and Hamburger */}
@@ -124,7 +124,7 @@ const Navbar: React.FC = () => {
                 zIndex: 1,
               }}
             >
-              <span style={{ position: 'relative', zIndex: 2 }}>Join the waitlist</span>
+              <span style={{ position: 'relative', zIndex: 2 }}>Join the Beta</span>
             </a>
             {/* Hamburger Icon */}
             <button

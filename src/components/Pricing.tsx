@@ -217,7 +217,7 @@ const Pricing: React.FC = () => {
               }}
             >
               <span style={{ position: 'absolute', left: 0 }}>✓</span>
-              Priority Enrollment for therapy and coaching groups (limited spots available)
+              Priority Enrollment for therapy and coaching groups
             </li>
             <li
               style={{

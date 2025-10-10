@@ -78,7 +78,7 @@ const CallToAction: React.FC = () => {
           transition: 'color 0.2s',
         }}
       >
-        <span style={{ position: 'relative', zIndex: 2 }}>Join the waitlist</span>
+        <span style={{ position: 'relative', zIndex: 2 }}>Join the Beta</span>
       </a>
       <style>{`
         .waitlist-animated-btn-black {
