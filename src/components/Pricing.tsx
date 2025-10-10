@@ -418,7 +418,7 @@ const Pricing: React.FC = () => {
 
           {/* CTA Button */}
           <a
-            href="https://form.typeform.com/to/CX0TVylI"
+            href="https://form.typeform.com/to/YJkEuMVB"
             target="_blank"
             rel="noopener noreferrer"
             className="pricing-btn-secondary"
