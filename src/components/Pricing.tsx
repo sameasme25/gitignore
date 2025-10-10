@@ -203,7 +203,7 @@ const Pricing: React.FC = () => {
               }}
             >
               <span style={{ position: 'absolute', left: 0 }}>✓</span>
-              Lifetime founder pricing
+              One year founder price locked in
             </li>
             <li
               style={{
@@ -266,7 +266,7 @@ const Pricing: React.FC = () => {
               e.currentTarget.style.boxShadow = 'none';
             }}
           >
-            Join the Waitlist
+            Join the Beta
           </a>
         </div>
 
@@ -346,7 +346,7 @@ const Pricing: React.FC = () => {
                 margin: 0,
               }}
             >
-              <strong>Availability:</strong> Launching after beta
+              <strong>Availability:</strong> <span style={{ color: '#DC2626' }}>Launching after beta</span>
             </p>
           </div>
 
@@ -448,7 +448,7 @@ const Pricing: React.FC = () => {
               e.currentTarget.style.boxShadow = 'none';
             }}
           >
-            Join the Waitlist
+            Join the Beta
           </a>
         </div>
       </div>
