@@ -225,40 +225,12 @@ const Pricing: React.FC = () => {
                 fontFamily: 'Merriweather',
                 fontSize: '16px',
                 lineHeight: '160%',
-                marginBottom: '12px',
                 paddingLeft: '28px',
                 position: 'relative',
               }}
             >
               <span style={{ position: 'absolute', left: 0 }}>✓</span>
               Direct Input — your feedback shapes how Ditto Health grows
-            </li>
-            <li
-              style={{
-                color: '#fff',
-                fontFamily: 'Merriweather',
-                fontSize: '16px',
-                lineHeight: '160%',
-                marginBottom: '12px',
-                paddingLeft: '28px',
-                position: 'relative',
-              }}
-            >
-              <span style={{ position: 'absolute', left: 0 }}>✓</span>
-              Private Community — connect with other moms in small, supportive groups
-            </li>
-            <li
-              style={{
-                color: '#fff',
-                fontFamily: 'Merriweather',
-                fontSize: '16px',
-                lineHeight: '160%',
-                paddingLeft: '28px',
-                position: 'relative',
-              }}
-            >
-              <span style={{ position: 'absolute', left: 0 }}>✓</span>
-              Exclusive Perks — early event invites, beta-only resources, and surprise bonuses
             </li>
           </ul>
 
