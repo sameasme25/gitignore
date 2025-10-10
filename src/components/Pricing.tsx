@@ -448,7 +448,7 @@ const Pricing: React.FC = () => {
               e.currentTarget.style.boxShadow = 'none';
             }}
           >
-            Join the Beta
+            Join the Waitlist
           </a>
         </div>
       </div>
