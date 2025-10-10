@@ -112,7 +112,7 @@ const Pricing: React.FC = () => {
               margin: '0 0 16px 0',
             }}
           >
-            Beta Founders
+            Beta Members
           </h3>
 
           {/* Price */}
@@ -189,7 +189,7 @@ const Pricing: React.FC = () => {
               }}
             >
               <span style={{ position: 'absolute', left: 0 }}>✓</span>
-              Early access to all features
+              Special Beta Rate — lock in before it increases to $199
             </li>
             <li
               style={{
@@ -203,7 +203,7 @@ const Pricing: React.FC = () => {
               }}
             >
               <span style={{ position: 'absolute', left: 0 }}>✓</span>
-              One year founder price locked in
+              Early Access to groups, resources, and app features before public launch
             </li>
             <li
               style={{
@@ -217,7 +217,35 @@ const Pricing: React.FC = () => {
               }}
             >
               <span style={{ position: 'absolute', left: 0 }}>✓</span>
-              Direct input on platform development
+              Priority Enrollment for therapy and coaching groups (limited spots available)
+            </li>
+            <li
+              style={{
+                color: '#fff',
+                fontFamily: 'Merriweather',
+                fontSize: '16px',
+                lineHeight: '160%',
+                marginBottom: '12px',
+                paddingLeft: '28px',
+                position: 'relative',
+              }}
+            >
+              <span style={{ position: 'absolute', left: 0 }}>✓</span>
+              Direct Input — your feedback shapes how Ditto Health grows
+            </li>
+            <li
+              style={{
+                color: '#fff',
+                fontFamily: 'Merriweather',
+                fontSize: '16px',
+                lineHeight: '160%',
+                marginBottom: '12px',
+                paddingLeft: '28px',
+                position: 'relative',
+              }}
+            >
+              <span style={{ position: 'absolute', left: 0 }}>✓</span>
+              Private Community — connect with other moms in small, supportive groups
             </li>
             <li
               style={{
@@ -230,7 +258,7 @@ const Pricing: React.FC = () => {
               }}
             >
               <span style={{ position: 'absolute', left: 0 }}>✓</span>
-              Exclusive founder community
+              Exclusive Perks — early event invites, beta-only resources, and surprise bonuses
             </li>
           </ul>
 
