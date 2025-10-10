@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import AboutUs from './components/AboutUs';
 import Features from './components/Features';
 import Community from './components/Community';
+import Pricing from './components/Pricing';
 import CallToAction from './components/CallToAction';
 import Footer from './components/Footer';
 
@@ -39,6 +40,7 @@ function App() {
         <AboutUs />
         <Features />
         <Community />
+        <Pricing />
         <CallToAction />
       </main>
       
