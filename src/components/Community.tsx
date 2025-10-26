@@ -120,7 +120,7 @@ const Community: React.FC = () => {
               textAlign: 'left',
             }}
           >
-            We're bringing moms together in their actual communities, led by subscribers ready to co-create what's needed most.
+            We're bringing moms together in their communities, led by subscribers ready to co-create what's needed most.
           </div>
         </div>
       </div>
