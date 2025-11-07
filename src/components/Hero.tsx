@@ -52,7 +52,7 @@ const Hero: React.FC = () => {
               letterSpacing: '0%',
             }}
           >
-            Mental health, nutrition, fitness, and community support—all in one place.
+            Mental Health Support for moms that can't afford the out-of-pocket expense and insurance premiums.
           </p>
           <a
             href="https://form.typeform.com/to/CX0TVylI"
