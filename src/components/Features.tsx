@@ -9,22 +9,6 @@ const features = [
     imageMobile: '/images/feature-1-mobile.png',
     reverse: false,
   },
-  {
-    chip: 'NUTRITION MADE SIMPLE',
-    heading: 'Overwhelmed with figuring out what to eat for your goals?',
-    description: `Whether to lose weight, gain, or maintain, our HAES-aligned dietitians create flexible, easy-to-follow meal plans based on the foods you already love and are easy to make.\n\nGrocery lists & breastfeeding-friendly calorie adjustments for new moms.\n\nNo restrictive dieting. No shame.`,
-    image: '/images/feature-2.png',
-    imageMobile: '/images/feature-2-mobile.png',
-    reverse: true,
-  },
-  { 
-    chip: 'FLEXIBLE & LOW-BARRIER',
-    heading: `Need to exercise but don't know where to start or fit it in with life?`,
-    description: `On-demand, simple workouts for home or gym.\n\nAdjust to be flexible with your energy level, hormones, and busy schedule.`,
-    image: '/images/feature-3.png',
-    imageMobile: '/images/feature-3-mobile.png',
-    reverse: false,
-  },
 ];
 
 const pxToVw = (px: number) => `clamp(${Math.round(px * 0.5)}px, ${(px / 1440 * 100).toFixed(2)}vw, ${px}px)`;
