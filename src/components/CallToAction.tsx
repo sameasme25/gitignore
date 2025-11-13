@@ -27,9 +27,10 @@ const CallToAction: React.FC = () => {
           margin: 0,
           marginBottom: '24px',
           textAlign: 'center',
+          maxWidth: '900px',
         }}
       >
-        We're <span style={{ color: '#3B82F6' }}>launching in January 2026,</span> and we'd love to have you with us from the start.
+        Are you ready to feel like the best version of you and receive everything you need to succeed?
       </h2>
       <div
         className="cta-subtitle"
@@ -46,7 +47,7 @@ const CallToAction: React.FC = () => {
           maxWidth: '900px',
         }}
       >
-        Are you ready to feel like the best version of you and receive everything you need to succeed?
+        We're <span style={{ color: '#3B82F6' }}>launching in January 2026,</span> and we'd love to have you with us from the start.
       </div>
       <a
         href="https://form.typeform.com/to/CX0TVylI"
