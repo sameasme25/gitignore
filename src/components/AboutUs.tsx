@@ -55,7 +55,7 @@ const AboutUs: React.FC = () => {
           margin: 0,
         }}
       >
-        Everything you need to feel your best: <span style={{ color: '#6B0EC7' }}>nutrition, movement, and community connection</span> - all centered around your mental wellbeing.
+        Therapy that understands motherhood and your budget.
       </div>
       <style>{`
         @media (max-width: 768px) {
