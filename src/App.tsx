@@ -1,7 +1,6 @@
 import { Analytics } from '@vercel/analytics/react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
-import AboutUs from './components/AboutUs';
 import Features from './components/Features';
 import Pricing from './components/Pricing';
 import CallToAction from './components/CallToAction';
@@ -36,7 +35,6 @@ function App() {
       
       <main role="main" id="main-content" aria-label="Main content">
         <Hero />
-        <AboutUs />
         <Features />
         <Pricing />
         <CallToAction />
