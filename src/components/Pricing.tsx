@@ -312,7 +312,7 @@ const Pricing: React.FC = () => {
                 lineHeight: '100%',
               }}
             >
-              $199
+              $150
             </span>
             <span
               style={{
